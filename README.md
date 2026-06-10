@@ -66,7 +66,6 @@
 
 
 
-
 I :heart: VIM!
 
 VIM is my day-to-day tool that gives me a feeling of pleasure when I use it.
